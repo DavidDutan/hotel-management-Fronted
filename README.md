@@ -1,3 +1,17 @@
+Frontend para el sistema de gestión de hotel. Este proyecto está desarrollado con React y proporciona una interfaz de usuario para interactuar con el backend del sistema. Permite registrar huéspedes, realizar el checkout, ver la lista de huéspedes y mostrar mensajes de éxito o error. 
+
+**Características:**
+- Interfaz para registrar huéspedes
+- Interfaz para realizar el checkout de huéspedes
+- Visualización de la lista de huéspedes
+- Mensajes de error y éxito
+
+**Tecnologías:**
+- React
+- Axios (para las solicitudes HTTP)
+- CSS (para el estilo de la aplicación)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
